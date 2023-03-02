@@ -3,5 +3,6 @@ const Colors = {
     primaryDarkerPurple: '#6a01ba',
     lighter: '#8c76e5',
     accent: '#e592d9',
-    black: 'black',
 }
+
+export default Colors;
